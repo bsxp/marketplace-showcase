@@ -29,6 +29,6 @@ Visit the page at https://bakesale.world/
     - Pulls data from our PostgreSQL database
 ## Screenshots
 
-![Marketplace mobile](https://ibb.co/3TwBBQB)
-![Marketplace desktop](https://ibb.co/G2Fhqsy)
-![Token info desktop](https://ibb.co/PzTbgwX)
+![Marketplace mobile](/screenshots/market_mobile.png)
+![Marketplace desktop](/screenshots/market_desktop.png)
+![Token info desktop](/screenshots/market_tokeninfo.png)
