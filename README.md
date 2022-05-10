@@ -14,10 +14,6 @@ Visit the page at https://bakesale.world/
 ## About the code
 
 - Written in TypeScript & React
-- Uses several React hooks
-    - useState
-    - useContext
-    - useEffect
 - Uses several third party libraries
     - react-router (routing)
     - Headless UI (lightly styled component library)
