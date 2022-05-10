@@ -9,7 +9,7 @@ It should be noted that not all component files referenced may appear here - thi
 
 This code showcases a component tree and will not compile if replicated locally. There are references to components and utils that are not uploaded here, and this repository is not configured as a complete React project.
 
-Visit the page at https://bakesale.world/
+Visit the marketplace page at https://bakesale.world/ to view a functional version of this code. Click any token in the market to view the live contents of TokenInfoPage.tsx.
 
 
 
